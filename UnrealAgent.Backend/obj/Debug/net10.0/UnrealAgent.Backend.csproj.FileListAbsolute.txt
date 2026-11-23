@@ -1,0 +1,12 @@
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\bin\Debug\net10.0\UnrealAgent.Backend.deps.json
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\bin\Debug\net10.0\UnrealAgent.Backend.dll
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\bin\Debug\net10.0\UnrealAgent.Backend.pdb
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.csproj.AssemblyReference.cache
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.AssemblyInfoInputs.cache
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.AssemblyInfo.cs
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.csproj.CoreCompileInputs.cache
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.dll
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\refint\UnrealAgent.Backend.dll
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\UnrealAgent.Backend.pdb
+C:\Users\hongd\source\UnrealAgent_Server\UnrealAgent.Backend\obj\Debug\net10.0\ref\UnrealAgent.Backend.dll

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8D4xbT76lk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hongd\\.nuget\\packages\\anthropic\\12.8.0\\anthropic.12.8.0.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.2.0\\microsoft.extensions.ai.abstractions.10.2.0.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0-preview.1.26104.118\\microsoft.extensions.configuration.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0-preview.1.26104.118\\microsoft.extensions.configuration.abstractions.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.configuration.binder\\11.0.0-preview.1.26104.118\\microsoft.extensions.configuration.binder.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0-preview.1.26104.118\\microsoft.extensions.dependencyinjection.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-preview.1.26104.118\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.diagnostics\\11.0.0-preview.1.26104.118\\microsoft.extensions.diagnostics.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\11.0.0-preview.1.26104.118\\microsoft.extensions.diagnostics.abstractions.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.http\\11.0.0-preview.1.26104.118\\microsoft.extensions.http.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.logging\\11.0.0-preview.1.26104.118\\microsoft.extensions.logging.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\11.0.0-preview.1.26104.118\\microsoft.extensions.logging.abstractions.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.options\\11.0.0-preview.1.26104.118\\microsoft.extensions.options.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\11.0.0-preview.1.26104.118\\microsoft.extensions.options.configurationextensions.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.1.26104.118\\microsoft.extensions.primitives.11.0.0-preview.1.26104.118.nupkg.sha512",
+    "C:\\Users\\hongd\\.nuget\\packages\\system.diagnostics.diagnosticsource\\11.0.0-preview.1.26104.118\\system.diagnostics.diagnosticsource.11.0.0-preview.1.26104.118.nupkg.sha512"
+  ],
+  "logs": []
+}
