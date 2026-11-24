@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UnrealAgent.Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31d02eec15560b5109ee282ac319c1247c341263")]
 [assembly: System.Reflection.AssemblyProductAttribute("UnrealAgent.Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UnrealAgent.Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

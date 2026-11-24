@@ -52,6 +52,7 @@ while (true)
     // 스트리밍 형식으로 변경
     await foreach (RawMessageStreamEvent Event in Auth.Client!.Messages.CreateStreaming(Parameters))
     {
+        // TextDelta : AI가 사용자에게 답변을 주는 메시지
         if(Event.TryPickContentBlockDelta(out RawContentBlockDeltaEvent? delta) && delta.Delta.TryPickText(out TextDelta? text))
             Console.WriteLine(text.Text);
     }

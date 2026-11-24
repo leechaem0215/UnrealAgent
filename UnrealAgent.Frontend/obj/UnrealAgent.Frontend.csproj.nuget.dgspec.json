@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj": {}
+    "C:\\Workspace\\UnrealAgent\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj": {
+    "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj",
+        "projectUniqueName": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj",
         "projectName": "UnrealAgent.Backend",
-        "projectPath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj",
-        "packagesPath": "C:\\Users\\hongd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\obj\\",
+        "projectPath": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hongd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -353,22 +355,24 @@
         }
       }
     },
-    "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj": {
+    "C:\\Workspace\\UnrealAgent\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj",
+        "projectUniqueName": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj",
         "projectName": "UnrealAgent.Frontend",
-        "projectPath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj",
-        "packagesPath": "C:\\Users\\hongd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Frontend\\obj\\",
+        "projectPath": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Frontend\\UnrealAgent.Frontend.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hongd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -376,8 +380,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj": {
-                "projectPath": "C:\\Users\\hongd\\source\\UnrealAgent_Server\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj"
+              "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj": {
+                "projectPath": "C:\\Workspace\\UnrealAgent\\UnrealAgent.Backend\\UnrealAgent.Backend.csproj"
               }
             }
           }
