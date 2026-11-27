@@ -9,7 +9,7 @@ namespace UnrealAgent.Backend.Auth;
 /// API Key 기반 인증 시스템
 /// AuthConfig.json 파일에서 키를 로드, AuthropicClient 생성
 /// </summary>
-public class AuthConfig
+public sealed class AuthConfig
 {
     // 설정 파일 경로
     private readonly string ConfigPath = Path.Combine(
